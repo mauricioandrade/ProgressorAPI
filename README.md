@@ -2,7 +2,6 @@
   <a href="https://github.com/mauricioandrade/ProgressorAPI/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="License"></a>
   <img src="https://img.shields.io/badge/Java-17-orange.svg" alt="Java 17">
   <img src="https://img.shields.io/badge/Spring_Boot-3.x-green.svg" alt="Spring Boot 3.x">
-  <a href="https://github.com/mauricioandrade/ProgressorAPI/actions/workflows/maven.yml"><img src="https://github.com/mauricioandrade/ProgressorAPI/actions/workflows/maven.yml/badge.svg" alt="Build Status"></a>
 </p>
 
 <h1 align="center">
