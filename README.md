@@ -51,37 +51,6 @@
 \## 🇧🇷 Versão em Português (BR)
 
 
-
-\### Índice
-
-
-
-\- \[Sobre o Projeto](#-sobre-o-projeto)
-
-&nbsp; - \[Principais Funcionalidades](#-principais-funcionalidades)
-
-&nbsp; - \[Stack Tecnológica](#-stack-tecnológica)
-
-\- \[Como Começar](#-como-começar)
-
-&nbsp; - \[Pré-requisitos](#-pré-requisitos)
-
-&nbsp; - \[Instalação](#-instalação)
-
-\- \[Documentação da API](#-documentação-da-api)
-
-\- \[Como Contribuir](#-como-contribuir)
-
-\- \[Licença](#-licença)
-
-\- \[Contato](#-contato)
-
-
-
----
-
-
-
 \### 📖 Sobre o Projeto
 
 
@@ -118,37 +87,27 @@ As principais tecnologias utilizadas neste projeto são:
 
 | :--- | :---: |
 
-| \*\*Java 17\*\* | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="30" height="30"/> |
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="30" height="30"/> |
 
-| \*\*Spring Boot 3\*\* | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="30" height="30"/> |
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="30" height="30"/> |
 
-| \*\*Spring Security\*\*| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="30" height="30"/> |
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="30" height="30"/> |
 
-| \*\*JPA / Hibernate\*\* | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-original-wordmark.svg" width="30" height="30"/> |
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-original-wordmark.svg" width="30" height="30"/> |
 
-| \*\*PostgreSQL\*\* | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="30" height="30"/> |
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="30" height="30"/> |
 
-| \*\*Docker\*\* | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="30" height="30"/> |
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="30" height="30"/> |
 
-| \*\*Maven\*\* | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" width="30" height="30"/> |
-
-
-
----
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" width="30" height="30"/> |
 
 
 
-\### 🚀 Como Começar
-
-
+🚀 Como Começar
 
 Siga estes passos para configurar e rodar o projeto em seu ambiente local.
 
-
-
-\#### ✅ Pré-requisitos
-
-
+✅ Pré-requisitos
 
 \* \*\*Java JDK 17\*\* ou superior.
 
@@ -157,16 +116,14 @@ Siga estes passos para configurar e rodar o projeto em seu ambiente local.
 \* \*\*Apache Maven\*\*.
 
 
-
 \#### ⚙️ Instalação
-
 
 
 1\.  \*\*Clone o repositório:\*\*
 
 &nbsp;   ```bash
 
-&nbsp;   git clone \[https://github.com/](https://github.com/)\[SEU-USUARIO-DO-GITHUB]/\[NOME-DO-REPOSITORIO].git
+&nbsp;   git clone \[https://github.com/](https://github.com/)\[mauricioandrade]/\[ProgressorAPI].git
 
 &nbsp;   ```
 
@@ -174,7 +131,7 @@ Siga estes passos para configurar e rodar o projeto em seu ambiente local.
 
 &nbsp;   ```bash
 
-&nbsp;   cd \[NOME-DO-REPOSITORIO]
+&nbsp;   cd \[ProgressorAPI]
 
 &nbsp;   ```
 
@@ -198,43 +155,21 @@ Siga estes passos para configurar e rodar o projeto em seu ambiente local.
 
 &nbsp;   ```
 
-
-
 A API estará disponível em `http://localhost:8080`.
-
-
-
----
-
 
 
 \### 📚 Documentação da API
 
-
-
 A documentação completa de todos os endpoints disponíveis é gerada automaticamente com o \*\*Swagger (OpenAPI 3)\*\*.
 
-
-
 Para acessá-la, com a aplicação rodando, visite a URL:
-
-
 
 ➡️ \*\*\[http://localhost:8080/swagger-ui.html](http://localhost:8080/swagger-ui.html)\*\*
 
 
-
----
-
-
-
 \### 🤝 Como Contribuir
 
-
-
 Contribuições são o que tornam a comunidade de código aberto um lugar incrível para aprender, inspirar e criar. Qualquer contribuição que você fizer será \*\*muito bem-vinda\*\*.
-
-
 
 1\.  Faça um \*\*Fork\*\* do projeto.
 
@@ -247,32 +182,20 @@ Contribuições são o que tornam a comunidade de código aberto um lugar incrí
 5\.  Abra um \*\*Pull Request\*\*.
 
 
-
----
-
-
-
 \### 📄 Licença
 
-
-
 Distribuído sob a licença MIT. Veja `LICENSE.txt` para mais informações.
-
-
-
----
-
 
 
 \### 📬 Contato
 
 
 
-\[Seu Nome] - \[@SeuTwitterOuLinkedin] - \[seu.email@exemplo.com]
+\[Mauricio Andrade] - \[[@Linkedin](https://www.linkedin.com/in/mauricioandradexdz/)]
 
 
 
-Link do Projeto: \[https://github.com/\[SEU-USUARIO-DO-GITHUB]/\[NOME-DO-REPOSITORIO]](https://github.com/\[SEU-USUARIO-DO-GITHUB]/\[NOME-DO-REPOSITORIO])
+Link do Projeto: \[https://github.com/\[mauricioandrade]/\[ProgressorAPI]](https://github.com/\[mauricioandrade]/\[ProgressorAPI])
 
 
 
