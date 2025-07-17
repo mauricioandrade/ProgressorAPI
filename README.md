@@ -6,8 +6,6 @@
 
 &nbsp; <img src="https://img.shields.io/badge/Spring\_Boot-3.x-green.svg" alt="Spring Boot 3.x">
 
-&nbsp; <img src="https://github.com/\[SEU-USUARIO-DO-GITHUB]/\[NOME-DO-REPOSITORIO]/actions/workflows/maven.yml/badge.svg" alt="Build Status">
-
 </p>
 
 
@@ -35,8 +33,6 @@
 <p align="center">
 
 &nbsp; <a href="#-versão-em-português-br"><strong>Português (BR)</strong></a>
-
-&nbsp; ·
 
 &nbsp; <a href="#-english-us-version"><strong>English (US)</strong></a>
 
