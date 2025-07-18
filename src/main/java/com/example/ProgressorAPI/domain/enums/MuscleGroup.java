@@ -5,9 +5,9 @@ public enum MuscleGroup {
     BACK("Costas"),
     LEGS("Pernas"),
     SHOULDERS("Ombros"),
-    BICEPS("Bíceps"),
-    TRICEPS("Tríceps"),
-    ABS("Abdômen"),
+    BICEPS("Biceps"),
+    TRICEPS("Triceps"),
+    ABS("Abdomen"),
     CARDIO("Cardio"),
     FULL_BODY("Corpo Inteiro"),
     OTHER("Outro");
