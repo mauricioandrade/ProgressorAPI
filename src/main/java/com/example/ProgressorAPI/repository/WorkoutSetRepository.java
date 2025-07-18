@@ -1,4 +1,7 @@
 package com.example.ProgressorAPI.repository;
 
-public class WorkoutSetRepository {
+import com.example.ProgressorAPI.domain.WorkoutSet;
+import org.springframework.data.jpa.repository.JpaRepository;
+
+public interface WorkoutSetRepository extends JpaRepository <WorkoutSet, Long> {
 }
