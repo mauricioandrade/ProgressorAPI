@@ -17,14 +17,14 @@ public class BodyMeasurement {
     @Column(name = "measurement_date", nullable = false)
     private LocalDate measurementDate;
 
-    // --- MEDIDAS BÁSICAS ---
+
     @Column(name = "weight_kg")
     private Double weight;
 
     @Column(name = "body_fat_percentage")
     private Double bodyFatPercentage;
 
-    // --- NOVOS CAMPOS DE MEDIÇÃO (EM CM) ---
+
     @Column(name = "chest")
     private Double chest;
 
@@ -56,11 +56,11 @@ public class BodyMeasurement {
     private Double leftCalf;
 
 
-    // Construtor vazio
+
     public BodyMeasurement() {
     }
 
-    // --- CONSTRUTOR ATUALIZADO COM TODOS OS CAMPOS ---
+
     public BodyMeasurement(User user, LocalDate measurementDate, Double weight, Double bodyFatPercentage, Double chest, Double abdomen, Double waist, Double hips, Double rightArm, Double leftArm, Double rightThigh, Double leftThigh, Double rightCalf, Double leftCalf) {
         this.user = user;
         this.measurementDate = measurementDate;
@@ -78,7 +78,7 @@ public class BodyMeasurement {
         this.leftCalf = leftCalf;
     }
 
-    // --- GETTERS E SETTERS ---
+
 
     public Long getId() {
         return id;
@@ -200,7 +200,7 @@ public class BodyMeasurement {
         this.leftCalf = leftCalf;
     }
 
-    // --- MÉTODOS EQUALS E HASHCODE (INALTERADOS) ---
+
 
     @Override
     public boolean equals(Object o) {
