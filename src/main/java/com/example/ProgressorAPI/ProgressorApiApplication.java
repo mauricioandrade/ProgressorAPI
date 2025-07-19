@@ -1,4 +1,4 @@
-package com.example.ProgressorAPI.app;
+package com.example.ProgressorAPI;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
